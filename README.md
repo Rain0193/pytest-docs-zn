@@ -1,8 +1,10 @@
 ----
- - ¹ÙÍøÎÄµµ£º``http://docs.pytest.org/en/latest/``
- - °æ±¾£ºpytest-3.0.3
- - ÒëÕß£º¹ÖÊŞ´©ÍÏĞ¬£¨TavisD£©
- - ÓÊÏä£ºtavisdxh@outlook.com
- - github£º``https://github.com/tavisdxh/pytest-docs-zn``
+- å®˜ç½‘æ–‡æ¡£ï¼š``http://docs.pytest.org/en/latest/``
+- ç‰ˆæœ¬ï¼špytest-3.0.7
+- è¯‘è€…ï¼šæ€ªå…½ç©¿æ‹–é‹ï¼ˆTavisDï¼‰
+- é‚®ç®±ï¼štavisdxh@outlook.com
+- githubï¼š``https://github.com/tavisdxh/pytest-docs-zn``
 
 -----
+
+Pytestä¸­æ–‡æ–‡æ¡£ï¼è¯‘è€…æ°´å¹³æœ‰é™ï¼Œæœ‰ä¸å½“ä¹‹å¤„ï¼Œè¯·è”ç³»ï¼
